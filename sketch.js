@@ -4,21 +4,21 @@ var carGroup,car,w2
 
 
 function preload(){
-    bg=loadImage('assets/home.png')
-    pb=loadImage('assets/play.png')
-    cr=loadImage('assets/credits.png')
-    qm=loadImage('assets/qm.png')
-    crwi=loadImage('assets/cr.png')
-    ari=loadImage('assets/arrow.png')
-    about=loadImage('assets/about.png')
-    pc=loadImage('assets/playscreen.png')
-    ri=loadImage('assets/reset.png')
-    red=loadImage('assets/carr.png')
-    blue=loadImage('assets/carb.png')
-    green=loadImage('assets/cargr.png')
-    gray=loadImage('assets/carg.png')
-    yellow=loadImage('assets/cary.png')
-    pause=loadImage('assets/puase.png')
+    bg=loadImage('home.png')
+    pb=loadImage('play.png')
+    cr=loadImage('credits.png')
+    qm=loadImage('qm.png')
+    crwi=loadImage('cr.png')
+    ari=loadImage('arrow.png')
+    about=loadImage('about.png')
+    pc=loadImage('playscreen.png')
+    ri=loadImage('reset.png')
+    red=loadImage('carr.png')
+    blue=loadImage('carb.png')
+    green=loadImage('cargr.png')
+    gray=loadImage('carg.png')
+    yellow=loadImage('cary.png')
+    pause=loadImage('puase.png')
 
 }
 
